@@ -1,0 +1,43 @@
+[
+    {
+        "brand" : "Samsung LED TV",
+        "price" : "40,000",
+        "src" : "/images/1.jpg"
+    },
+    {
+        "brand" : "Sony Bravia TV",
+        "price" : "40,000",
+        "src" : "/images/2.png"
+    },
+    {
+        "brand" : "LG LED TV",
+        "price" : "57,000",
+        "src" : "/images/3.jpg"
+    },
+    {
+        "brand" : "Samsung LCD TV",
+        "price" : "86,000",
+        "src" : "/images/4.png"
+    },
+    {
+        "brand" : "LG Mobile",
+        "price" : "32,000",
+        "src" : "/images/5.png"
+    },
+    {
+        "brand" : "Nokia Mobile",
+        "price" : "18,000",
+        "src" : "/images/6.jpg"
+    },
+    {
+        "brand" : "HTC Mobile",
+        "price" : "21,000",
+        "src" : "/images/7.png"
+    },
+    {
+        "brand" : "iPhone Mobile",
+        "price" : "38,000",
+        "src" : "/images/8.png"
+    }
+
+]
