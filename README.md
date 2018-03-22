@@ -3,3 +3,8 @@ We very often see the dynamic loading of new contents on the web pages as a user
 
 # How to use the project
 As the project uses AJAX for acquiring new data, you are first required to host the project on the local server using software like XAMPP, Abyss, etc. 
+
+# Resources and technologies used
+1. jQuery
+2. AJAX
+3. Bootstrap
